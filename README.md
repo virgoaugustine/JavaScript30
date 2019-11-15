@@ -1,0 +1,1 @@
+30 projects to make me comfortable with Javascript fundamentals and working in the DOM without a library.
